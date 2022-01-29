@@ -1,0 +1,12 @@
+@import "./normalize.css"
+
+/* :root -> 获取根元素html 
+一般用于声明全局变量。可结合var（）、cal（）使用
+*/
+/* :root {
+    --color-text: #666;
+    --color-hight-text: #ff5777;
+    --color-tint: #ff8198;
+    --color-background: #fff;
+    --line-height: 1.5;
+} */
